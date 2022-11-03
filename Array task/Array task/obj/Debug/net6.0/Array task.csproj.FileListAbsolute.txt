@@ -1,0 +1,15 @@
+C:\Users\Ali Akberov\Desktop\Array task\Array-task\Array task\Array task\obj\Debug\net6.0\Array task.csproj.AssemblyReference.cache
+C:\Users\Ali Akberov\Desktop\Array task\Array-task\Array task\Array task\obj\Debug\net6.0\Array task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali Akberov\Desktop\Array task\Array-task\Array task\Array task\obj\Debug\net6.0\Array task.AssemblyInfoInputs.cache
+C:\Users\Ali Akberov\Desktop\Array task\Array-task\Array task\Array task\obj\Debug\net6.0\Array task.AssemblyInfo.cs
+C:\Users\Ali Akberov\Desktop\Array task\Array-task\Array task\Array task\obj\Debug\net6.0\Array task.csproj.CoreCompileInputs.cache
+C:\Users\Ali Akberov\Desktop\Array task\Array-task\Array task\Array task\bin\Debug\net6.0\Array task.exe
+C:\Users\Ali Akberov\Desktop\Array task\Array-task\Array task\Array task\bin\Debug\net6.0\Array task.deps.json
+C:\Users\Ali Akberov\Desktop\Array task\Array-task\Array task\Array task\bin\Debug\net6.0\Array task.runtimeconfig.json
+C:\Users\Ali Akberov\Desktop\Array task\Array-task\Array task\Array task\bin\Debug\net6.0\Array task.dll
+C:\Users\Ali Akberov\Desktop\Array task\Array-task\Array task\Array task\bin\Debug\net6.0\ref\Array task.dll
+C:\Users\Ali Akberov\Desktop\Array task\Array-task\Array task\Array task\bin\Debug\net6.0\Array task.pdb
+C:\Users\Ali Akberov\Desktop\Array task\Array-task\Array task\Array task\obj\Debug\net6.0\Array task.dll
+C:\Users\Ali Akberov\Desktop\Array task\Array-task\Array task\Array task\obj\Debug\net6.0\ref\Array task.dll
+C:\Users\Ali Akberov\Desktop\Array task\Array-task\Array task\Array task\obj\Debug\net6.0\Array task.pdb
+C:\Users\Ali Akberov\Desktop\Array task\Array-task\Array task\Array task\obj\Debug\net6.0\Array task.genruntimeconfig.cache
